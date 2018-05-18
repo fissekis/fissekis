@@ -1,0 +1,9 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+#this ignores changes to .html files
+.html
+
+#evan a directory will work: /doc/output/some_raster
